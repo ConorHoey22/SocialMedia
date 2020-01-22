@@ -1,0 +1,22 @@
+#lblEmail {
+  width: 100%;
+}
+
+#InputEmail {
+  width: 50%;
+}
+
+#InputUsername {
+  width: 50%;
+}
+
+#InputPassword {
+  width: 50%;
+}
+
+#container {
+  position: fixed;
+  top: 20%;
+  right: 1%;
+  left: 1%;
+}
